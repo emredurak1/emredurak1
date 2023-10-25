@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hey there! 👋
 
 I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about computer science and web development. I'm constantly exploring new technologies and building exciting projects.
