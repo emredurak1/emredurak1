@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-💻 I am Emre Durak, a 15 years old Turkish High School Student that loves Computer Science and especially Web Development.
+## Hey there! 👋
 
-🚀 I know HTML, CSS, SCSS, Bootstrap, Tailwind, Javascript, Node.js Basics with a good Data Structures and Algorithms knowledge. 
+I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about computer science and web development. I'm constantly exploring new technologies and building exciting projects.
 
-🖋️ I am currently learning Express.js, MongoDB, Mongoose and React.
+### Tech Stack 🚀
+- HTML, CSS, SCSS, Bootstrap, Tailwind
+- JavaScript, Node.js (Basics), APIs
+- Git
+- Data Structures and Algorithms
 
-🌍 I speak Turkish, English, German and a bit Spanish.
+### Learning 📚
+Currently diving into
+- Express.js,
+- MongoDB,
+- Mongoose,
+- and React
 
-♟️ I really love learning new things, especially new technologies. I really love chess too.
+### Languages 🌍
+- Turkish (Native)
+- English
+- German
+- A bit of Spanish
 
-💬 Please feel free to communicate me via Instagram.
+### Interests ⚡
+- Chess ♟️
+- Video Games 🎮
+
+### Contact Me 📫
+- Instagram: emrescript
+- Email: emredurak543@gmail.com
 
 <!--
 **emredurak1/emredurak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
