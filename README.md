@@ -21,7 +21,13 @@ Currently diving into
 - German
 - A bit of Spanish
 
+### Soft Skills 🖋️
+- Fast Learning
+- Problem Solving
+- Diction
+
 ### Interests ⚡
+- Mathematics ➕
 - Chess ♟️
 - Video Games 🎮
 
