@@ -27,9 +27,6 @@ I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about
 
 ### Learning 📚
 Currently diving into
-- Advanced Mongoose
-- JWT
-- Authentication, Authorization and Security
 - Pug Templates
 - Data Structures And Algorithms
 
