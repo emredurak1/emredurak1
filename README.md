@@ -6,6 +6,7 @@ I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about
 
 ### Frontend Stack ♣️ 
 - HTML
+- Pug Templates
 - CSS
 - SASS
 - Bootstrap
@@ -27,7 +28,6 @@ I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about
 
 ### Learning 📚
 Currently diving into
-- Pug Templates
 - Data Structures And Algorithms
 
 ### Languages 🌍
