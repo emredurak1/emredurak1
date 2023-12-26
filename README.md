@@ -47,5 +47,6 @@ Currently diving into
 
 ### Contact Me 📫
 - Instagram: emrescript
+- Linkedin: https://www.linkedin.com/in/emre-durak-4a6ab528b/
 - Email: emredurak543@gmail.com
 
