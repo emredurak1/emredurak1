@@ -32,6 +32,7 @@ Currently diving into
 - React
 - Redux Toolkit
 - React Query
+- TypeScript
 
 ### Languages 🌍
 - Turkish (Native) 🇹🇷
