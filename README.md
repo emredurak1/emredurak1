@@ -29,6 +29,9 @@ I'm Emre Durak, a 15-year-old Turkish high school student who's passionate about
 ### Learning 📚
 Currently diving into
 - Data Structures And Algorithms
+- React
+- Redux Toolkit
+- React Query
 
 ### Languages 🌍
 - Turkish (Native) 🇹🇷
