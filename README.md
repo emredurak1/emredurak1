@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **emredurak543@gmail.com**
 
-- ⚡ **I love languages, history, philosophy, physics, mathematics & software development.**
+- ⚡ **I love languages, chess, web development, mathematics & computer science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
