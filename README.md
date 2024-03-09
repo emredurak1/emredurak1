@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre Durak</h1>
+<h1 align="center">Hi 👋, This is Emre Durak!</h1>
 <h3 align="center">A young and passionate full stack developer from Turkiye</h3>
 
 - 📚 I'm currently studying on **Altınşehir Anatolian High School as a 11th grade student**
