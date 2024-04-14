@@ -3,7 +3,7 @@
 
 - 📚 I'm currently studying on **Altınşehir Anatolian High School as a 11th grade student**
 - 🗣️ I speak **English (Fluently C1 - C2), Turkish(Native) and German(Intermediate Level B1 - B2)**
-- 🌱 I’m currently learning **React, Redux, Typescript & DSA**
+- 🌱 I’m currently learning **Typescript & DSA**
 
 - 👨‍💻 All of my projects are available at [github.com/emredurak1](github.com/emredurak1)
 
