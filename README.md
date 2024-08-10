@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Emre Durak!</h1>
 <h3 align="center">A young and passionate full stack developer from Turkiye</h3>
 
-- 📚 I'm currently studying on **Altınşehir Anatolian High School as a 11th grade student**
+- 📚 I'm currently studying on **Altınşehir Anatolian High School as a 12th grade student**
 - 🗣️ I speak **English (Fluently C1 - C2), Turkish(Native) and German(Intermediate Level B1 - B2)**
 - 🌱 I’m currently learning **Typescript & DSA**
 
