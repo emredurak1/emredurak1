@@ -1,17 +1,8 @@
 <h1 align="center">Emre Durak</h1>
 
-- 🗣️ I speak **English (Fluently C1 - C2), Turkish(Native) and German(Intermediate Level B1 - B2)**
-- 🌱 I’m currently learning **Advanced React & TypeScript**
+I speak Turkish, English (C1) and German (B1).
 
-- 👨‍💻 All of my projects are available at [github.com/emredurak1](github.com/emredurak1)
-
-- 💬 Ask me about **everything I say I know**
-
-- 📫 How to reach me **emredurak543@gmail.com**
-
-- ⚡ **I love languages, chess, web development, mathematics & computer science.**
-
-<h3 align="left">Languages, Frameworks & Tools:</h3>
+<h3 align="left">Skills:</h3>
 
  **Frontend:**
  
