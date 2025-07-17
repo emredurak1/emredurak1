@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, This is Emre Durak!</h1>
-<h3 align="center">A young and passionate full stack developer from Turkiye</h3>
+<h1 align="center">Emre Durak</h1>
 
 - 🗣️ I speak **English (Fluently C1 - C2), Turkish(Native) and German(Intermediate Level B1 - B2)**
 - 🌱 I’m currently learning **Advanced React & TypeScript**
